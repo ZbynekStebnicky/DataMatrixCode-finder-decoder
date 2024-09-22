@@ -2,7 +2,7 @@ import cv2
 from pylibdmtx import pylibdmtx
 
 # Načtení obrázku z lokálního souboru
-image_path = r'C:\Users\stebn\Documents\Ch\DMC\images.jpg'  # Nahraď cestou k obrázku
+image_path = r'path'  # Nahraď cestou k obrázku
 image = cv2.imread(image_path)
 
 # Konverze obrázku na odstíny šedi
